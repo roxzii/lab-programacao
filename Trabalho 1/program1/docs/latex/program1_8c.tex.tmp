@@ -1,0 +1,45 @@
+\hypertarget{program1_8c}{}\doxysection{src/program1.c File Reference}
+\label{program1_8c}\index{src/program1.c@{src/program1.c}}
+
+
+Pretty nice program.  
+
+
+{\ttfamily \#include $<$stdio.\+h$>$}\newline
+Include dependency graph for program1.\+c\+:
+% FIG 0
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{program1_8c_add4ad2c0427915bf42988d03f7bc2856}\label{program1_8c_add4ad2c0427915bf42988d03f7bc2856}} 
+int {\bfseries make\+Sum} (int b)
+\item 
+int \mbox{\hyperlink{program1_8c_ae66f6b31b5ad750f1fe042a706a4e3d4}{main}} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{program1_8c_aa4c2a5552e9bc49b1816ff532f558c74}\label{program1_8c_aa4c2a5552e9bc49b1816ff532f558c74}} 
+int \mbox{\hyperlink{program1_8c_aa4c2a5552e9bc49b1816ff532f558c74}{a}} = 20
+\begin{DoxyCompactList}\small\item\em Global variable with value 20. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Pretty nice program. 
+
+This program is used to sum two values. One of them is a constant. \begin{DoxyAuthor}{Author}
+Elsa Alves 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+0.\+9a 
+\end{DoxyVersion}
+
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{program1_8c_ae66f6b31b5ad750f1fe042a706a4e3d4}\label{program1_8c_ae66f6b31b5ad750f1fe042a706a4e3d4}} 
+\index{program1.c@{program1.c}!main@{main}}
+\index{main@{main}!program1.c@{program1.c}}
+\doxysubsubsection{\texorpdfstring{main()}{main()}}
+{\footnotesize\ttfamily int main (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+This is the main function of the program. 
